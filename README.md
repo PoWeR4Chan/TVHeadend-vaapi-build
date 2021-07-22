@@ -1,5 +1,5 @@
 # TVHeadend-vaapi-build
-Intel CPU를 위한 vaapi HW 트랜스코 옵션을 포함한 빌드 입니다.
+Intel CPU를 위한 vaapi HW 트랜스코딩 옵션을 포함한 빌드 입니다.
 
 Debian Buster 이상에서  가능하며, 최초 설치가 아닌 Upgrade용입니다.
 
