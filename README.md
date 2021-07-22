@@ -7,6 +7,6 @@ Debian Buster 이상에서 설치 가능하며, 최초 설치가 아닌 Upgrade�
 
 Debian Buster에 준하는 Ubuntu에서도 사용 가능 할 걸로 예상합니다.
 
-오른쪽 Releaseㄴ에서 다운 받으시면 됩니다.
+오른쪽 Releases에서 다운 받으시면 됩니다.
 
 설치 : dpkg -i tvheadend_4.3-xxxxxxxx.deb
