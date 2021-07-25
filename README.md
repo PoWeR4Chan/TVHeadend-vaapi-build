@@ -12,4 +12,4 @@ Debian Buster에 준하는 Ubuntu에서도 사용 가능 할 걸로 예상합니
 설치 : dpkg -i tvheadend_4.3-xxxxxxxx.deb
 
 참고 : vaapi 드라이버인 i965-va-driver 도 필요함. (apt install i965-va-driver)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(<a href="https://www.clien.net/service/board/cm_nas/14397343?po=0&sk=id&sv=pwrchan&groupCd=&pt=0" target="_blank" >Ref</a>)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://www.clien.net/service/board/cm_nas/14397343?po=0&sk=id&sv=pwrchan&groupCd=&pt=0
