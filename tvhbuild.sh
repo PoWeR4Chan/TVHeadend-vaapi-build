@@ -1,5 +1,7 @@
 #!/bin/sh
 
+mkdir /root/tvhjob
+
 cd /root/tvhjob
 
 git clone https://github.com/tvheadend/tvheadend.git 
@@ -15,7 +17,7 @@ make clean
 
 cd ..
 
-rm -rf tvheadend
+rm -rf /root/tvhjob
 
 rm -f *dbg*.deb
 
