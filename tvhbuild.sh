@@ -17,7 +17,7 @@ make clean
 
 cd ..
 
-rm -rf /root/tvhjob
+rm -rf tvheadend
 
 rm -f *dbg*.deb
 
