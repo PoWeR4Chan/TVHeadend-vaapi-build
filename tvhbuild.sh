@@ -45,5 +45,4 @@ ls -lh
 echo
 echo "All Done!!!!"
 
-# ssmtp xxxx@mxx.com < /home/chan/tvhbuild.txt
 # mutt -s "TVHeadend Build" xxxx@xxxx.com < /home/chan/tvhbuild.txt
