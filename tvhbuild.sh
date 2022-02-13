@@ -8,7 +8,7 @@ git clone https://github.com/tvheadend/tvheadend.git
 
 cd tvheadend
 
-AUTOBUILD_CONFIGURE_EXTRA="--enable-vaapi" ./Autobuild.sh -t buster-amd64
+AUTOBUILD_CONFIGURE_EXTRA="--enable-vaapi" ./Autobuild.sh -t bullseye-amd64
 # AUTOBUILD_CONFIGURE_EXTRA="--enable-libffmpeg_static --disable-bintray_cache --enable-dvbcsa" ./Autobuild.sh -t buster-amd64
 
 echo "Build Done!"
