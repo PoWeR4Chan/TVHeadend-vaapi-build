@@ -5,7 +5,7 @@ Debian Buster 이상에서  가능하며, 최초 설치가 아닌 Upgrade용입�
 
 최초 설치는 TVHeadend 홈 페이지의 안내에 따라 apt로 의존 패키지와 함께 설치를 해야하며, 이를 선행한 후 사용 하실 수 있습니다.
 
-Debian Buster에서 Bullseye로 변경 . (확신없음)
+Debian Buster에서 Bullseye로 변경.
 
 오른쪽 Releases에서 다운 받으시면 됩니다.
 
