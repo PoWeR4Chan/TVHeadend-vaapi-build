@@ -1,0 +1,13 @@
+The following additional packages will be installed:
+  libclass-inspector-perl libclass-methodmaker-perl libclass-singleton-perl libcommon-sense-perl libconvert-binhex-perl libdate-manip-perl libdatetime-format-builder-perl
+  libdatetime-format-iso8601-perl libdatetime-format-sqlite-perl libdatetime-format-strptime-perl libdatetime-locale-perl libdatetime-perl libdatetime-timezone-perl
+  libdbd-sqlite3-perl libdbi-perl libdigest-bubblebabble-perl libemail-address-perl libemail-find-perl libemail-valid-perl libexporter-lite-perl libexporter-tiny-perl libfcgi-bin
+  libfcgi-perl libfcgi0ldbl libfile-chdir-perl libfile-sharedir-perl libfile-slurp-perl libhtml-fromtext-perl libhttp-cache-transparent-perl libio-sessiondata-perl libjson-perl
+  libjson-xs-perl liblingua-preferred-perl liblist-moreutils-perl liblist-moreutils-xs-perl liblog-tracemessages-perl liblwp-useragent-determined-perl libmime-tools-perl
+  libnet-dns-perl libnet-dns-sec-perl libnet-domain-tld-perl libnet-ip-perl libossp-uuid-perl libossp-uuid16 libparams-validate-perl libperl4-corelibs-perl libperlio-gzip-perl
+  libpython2-stdlib libregexp-common-perl libsoap-lite-perl libtask-weaken-perl libterm-progressbar-perl libtypes-serialiser-perl liburi-encode-perl liburi-escape-xs-perl
+  libxml-libxslt-perl libxml-treepp-perl libxml-writer-perl libxmlrpc-lite-perl libxmltv-perl python-is-python2 python2 python2-minimal xmltv-util
+Suggested packages:
+  libmldbm-perl libnet-daemon-perl libsql-statement-perl uuid libapache2-mod-perl2 libnet-jabber-perl xmltv-gui python2-doc python-tk libcgi-pm-perl liblinux-dvb-perl
+Recommended packages:
+  python-requests
